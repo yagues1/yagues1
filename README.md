@@ -1,4 +1,8 @@
 <h1><img src="assets/javier-banner.webp" width="1200" height="320" alt="Javier · @yagues1"></h1>
+<!-- Visual sources from GeoMars.
+Banner elevation data https://github.com/yagues1/GeoMars/blob/dbcae31e6386889b59ac2d2ed02479e7f2fe9984/public/data/grids/routing.json
+Navigation capture https://github.com/yagues1/GeoMars/blob/dbcae31e6386889b59ac2d2ed02479e7f2fe9984/screenshots/v1.3/after/04-rover-navigation.png
+-->
 
 I’m an independent developer and a Computer Engineering student. I’m interested in artificial intelligence, cybersecurity, building products and open-source software.
 
